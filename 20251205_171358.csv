@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Automated1,Chrome 142.0.7444.176,,,05-12-2025 17:14:02,05-12-2025 17:14:11,9.305s,PASSED
+,,,,,,,
+Test Cases/Road to 50/Login-facebook,Chrome 142.0.7444.176,,,05-12-2025 17:14:02,05-12-2025 17:14:07,5.005s,PASSED
+"openBrowser("""")",Chrome 142.0.7444.176,,,05-12-2025 17:14:03,05-12-2025 17:14:06,3.243s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 142.0.7444.176,,,05-12-2025 17:14:06,05-12-2025 17:14:07,0.972s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 142.0.7444.176,,,05-12-2025 17:14:07,05-12-2025 17:14:07,0.433s,PASSED
+,,,,,,,
+Test Cases/Road to 50/Login-gmail,Chrome 142.0.7444.176,,,05-12-2025 17:14:07,05-12-2025 17:14:11,3.642s,PASSED
+"openBrowser("""")",Chrome 142.0.7444.176,,,05-12-2025 17:14:07,05-12-2025 17:14:08,1.186s,PASSED
+"navigateToUrl(""https://mail.google.com/mail/u/0/#inbox"")",Chrome 142.0.7444.176,,,05-12-2025 17:14:08,05-12-2025 17:14:10,1.701s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 142.0.7444.176,,,05-12-2025 17:14:10,05-12-2025 17:14:11,0.688s,PASSED
